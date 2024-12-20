@@ -6,12 +6,17 @@ using System.Web.Mvc;
 
 namespace PhamVanKiet_2122110240.Controllers
 {
-    public class UserLoginController : Controller
+    public class UserController : Controller
     {
         // GET: UserLogin
         public ActionResult UserLogin()
         {
             return View();
         }
+        public ActionResult UserRegister()
+        {
+            return View();
+        }
+
     }
 }

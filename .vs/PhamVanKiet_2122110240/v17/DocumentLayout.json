@@ -1,34 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASP.NET\\PhamVanKiet_2122110240\\",
+  "WorkspaceRootPath": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\phamvankiet_2122110240\\phamvankiet_2122110240\\views\\userregister\\userregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\views\\userregister\\userregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\do_an\\phamvankiet_2122110240\\phamvankiet_2122110240\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\phamvankiet_2122110240\\phamvankiet_2122110240\\controllers\\blankstartercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\controllers\\blankstartercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\do_an\\phamvankiet_2122110240\\phamvankiet_2122110240\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\phamvankiet_2122110240\\phamvankiet_2122110240\\controllers\\componentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\controllers\\componentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\do_an\\phamvankiet_2122110240\\phamvankiet_2122110240\\views\\user\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\views\\user\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\phamvankiet_2122110240\\phamvankiet_2122110240\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\do_an\\phamvankiet_2122110240\\phamvankiet_2122110240\\views\\user\\userregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\views\\user\\userregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\phamvankiet_2122110240\\phamvankiet_2122110240\\views\\content\\content.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\phamvankiet_2122110240\\views\\content\\content.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\views\\content\\content.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\phamvankiet_2122110240\\phamvankiet_2122110240\\views\\components\\components.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\views\\components\\components.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\phamvankiet_2122110240\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\phamvankiet_2122110240\\phamvankiet_2122110240\\views\\blankstarter\\blankstarter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\do_an\\phamvankiet_2122110240\\phamvankiet_2122110240\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\do_an\\phamvankiet_2122110240\\phamvankiet_2122110240\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|d:\\asp.net\\do_an\\phamvankiet_2122110240\\phamvankiet_2122110240\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\phamvankiet_2122110240\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\phamvankiet_2122110240\\controllers\\blankstartercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\controllers\\blankstartercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\phamvankiet_2122110240\\views\\blankstarter\\blankstarter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\views\\blankstarter\\blankstarter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\phamvankiet_2122110240\\controllers\\componentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\controllers\\componentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\phamvankiet_2122110240\\views\\components\\components.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{158630DB-B46A-4508-B3EC-58C20B3D9D00}|PhamVanKiet_2122110240\\PhamVanKiet_2122110240.csproj|solutionrelative:phamvankiet_2122110240\\views\\components\\components.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,30 +66,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRegister.cshtml",
-              "DocumentMoniker": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\UserRegister\\UserRegister.cshtml",
-              "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Views\\UserRegister\\UserRegister.cshtml",
-              "ToolTip": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\UserRegister\\UserRegister.cshtml",
-              "RelativeToolTip": "PhamVanKiet_2122110240\\Views\\UserRegister\\UserRegister.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PhamVanKiet_2122110240\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:27:02.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLogin.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\User\\UserLogin.cshtml",
+              "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Views\\User\\UserLogin.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\User\\UserLogin.cshtml",
+              "RelativeToolTip": "PhamVanKiet_2122110240\\Views\\User\\UserLogin.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:58:51.972Z",
+              "WhenOpened": "2024-12-20T11:05:51.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Content.cshtml",
-              "DocumentMoniker": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Content\\Content.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Content\\Content.cshtml",
               "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Views\\Content\\Content.cshtml",
-              "ToolTip": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Content\\Content.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Content\\Content.cshtml",
               "RelativeToolTip": "PhamVanKiet_2122110240\\Views\\Content\\Content.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-13T12:46:02.259Z",
               "EditorCaption": ""
@@ -69,49 +110,113 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UserRegister.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\User\\UserRegister.cshtml",
+              "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Views\\User\\UserRegister.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\User\\UserRegister.cshtml",
+              "RelativeToolTip": "PhamVanKiet_2122110240\\Views\\User\\UserRegister.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T11:04:55.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PhamVanKiet_2122110240\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwF4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T10:36:27.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PhamVanKiet_2122110240\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T10:56:20.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ContentController.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\ContentController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\ContentController.cs",
               "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Controllers\\ContentController.cs",
-              "ToolTip": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\ContentController.cs",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\ContentController.cs",
               "RelativeToolTip": "PhamVanKiet_2122110240\\Controllers\\ContentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T12:45:44.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "PhamVanKiet_2122110240\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:13:43.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllCategory.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Category\\AllCategory.cshtml",
+              "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Views\\Category\\AllCategory.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Category\\AllCategory.cshtml",
+              "RelativeToolTip": "PhamVanKiet_2122110240\\Views\\Category\\AllCategory.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T10:48:11.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PhamVanKiet_2122110240\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAG0AAAAAAAAAAAApwHwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T10:24:26.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Components.cshtml",
-              "DocumentMoniker": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Components\\Components.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Components\\Components.cshtml",
               "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Views\\Components\\Components.cshtml",
-              "ToolTip": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Components\\Components.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\Components\\Components.cshtml",
               "RelativeToolTip": "PhamVanKiet_2122110240\\Views\\Components\\Components.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:44:50.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T12:44:50.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ComponentsController.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\ComponentsController.cs",
-              "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Controllers\\ComponentsController.cs",
-              "ToolTip": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\ComponentsController.cs",
-              "RelativeToolTip": "PhamVanKiet_2122110240\\Controllers\\ComponentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:44:34.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "BlankStarterController.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\BlankStarterController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\BlankStarterController.cs",
               "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Controllers\\BlankStarterController.cs",
-              "ToolTip": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\BlankStarterController.cs",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\BlankStarterController.cs",
               "RelativeToolTip": "PhamVanKiet_2122110240\\Controllers\\BlankStarterController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,16 +225,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "ComponentsController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\ComponentsController.cs",
+              "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Controllers\\ComponentsController.cs",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Controllers\\ComponentsController.cs",
+              "RelativeToolTip": "PhamVanKiet_2122110240\\Controllers\\ComponentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:44:34.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "BlankStarter.cshtml",
-              "DocumentMoniker": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\BlankStarter\\BlankStarter.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\BlankStarter\\BlankStarter.cshtml",
               "RelativeDocumentMoniker": "PhamVanKiet_2122110240\\Views\\BlankStarter\\BlankStarter.cshtml",
-              "ToolTip": "D:\\ASP.NET\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\BlankStarter\\BlankStarter.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Do_an\\PhamVanKiet_2122110240\\PhamVanKiet_2122110240\\Views\\BlankStarter\\BlankStarter.cshtml",
               "RelativeToolTip": "PhamVanKiet_2122110240\\Views\\BlankStarter\\BlankStarter.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:43:51.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T12:43:51.737Z"
             }
           ]
         }

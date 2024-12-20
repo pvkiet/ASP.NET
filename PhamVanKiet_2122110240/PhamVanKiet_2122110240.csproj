@@ -129,8 +129,7 @@
     <Compile Include="Controllers\ListingLargeController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Controllers\ShoppingCartController.cs" />
-    <Compile Include="Controllers\UserLoginController.cs" />
-    <Compile Include="Controllers\UserRegisterController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -430,11 +429,11 @@
     <Content Include="Views\ListingGrid\ListingGrid.cshtml" />
     <Content Include="Views\ListingLarge\ListingLarge.cshtml" />
     <Content Include="Views\ShoppingCart\ShoppingCart.cshtml" />
-    <Content Include="Views\UserLogin\UserLogin.cshtml" />
-    <Content Include="Views\UserRegister\UserRegister.cshtml" />
     <Content Include="Views\BlankStarter\BlankStarter.cshtml" />
     <Content Include="Views\Components\Components.cshtml" />
     <Content Include="Views\Content\Content.cshtml" />
+    <Content Include="Views\User\UserRegister.cshtml" />
+    <Content Include="Views\User\UserLogin.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

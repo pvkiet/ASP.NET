@@ -27,13 +27,19 @@
                     <label class="float-left custom-control custom-checkbox"> <input type="checkbox" class="custom-control-input" checked=""> <div class="custom-control-label"> Remember </div> </label>
                 </div> <!-- form-group form-check .// -->
                 <div class="form-group">
-                    <button type="submit" class="btn btn-primary btn-block"> Login  </button>
-                </div> <!-- form-group// -->
+                    @Html.ActionLink("Login", "Index", "Home", new { }, new { @class = "btn btn-primary btn-block" })
+                </div>
+
             </form>
         </div> <!-- card-body.// -->
     </div> <!-- card .// -->
 
-    <p class="text-center mt-4">Don't have account? <a href="#">Sign up</a></p>
+    <p class="text-center mt-4">
+        Don't have account?
+        @Html.ActionLink("Sign up", "UserRegister", "User", new { }, null)
+
+
+    </p>
     <br><br>
     <!-- ============================ COMPONENT LOGIN  END.// ================================= -->
 

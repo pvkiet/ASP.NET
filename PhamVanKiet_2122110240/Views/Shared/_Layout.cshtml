@@ -90,7 +90,8 @@
                                     <div class="icon-area">
                                         <i class="fa fa-shopping-cart"></i>
                                     </div>
-                                    <small class="text"> Cart </small>
+
+                                    @Html.ActionLink("Cart ", "ShoppingCart", "ShoppingCart", new { }, new {@class="text"})
                                 </a>
                             </div>
                         </div> <!-- widgets-wrap.// -->
@@ -110,17 +111,20 @@
                 <div class="collapse navbar-collapse" id="main_nav">
                     <ul class="navbar-nav">
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#"> <i class="fa fa-bars text-muted mr-2"></i> Categories </a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
+                                <i class="fa fa-bars text-muted mr-2"></i> Categories
+                            </a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="#">Machinery</a>
-                                <a class="dropdown-item" href="#">Electronics</a>
-                                <a class="dropdown-item" href="#">Home textile</a>
-                                <a class="dropdown-item" href="#">Home and kitchen</a>
-                                <a class="dropdown-item" href="#">Service and equipment</a>
-                                <a class="dropdown-item" href="#">Healthcare items</a>
-                                <a class="dropdown-item" href="#">Toys and Hobbies</a>
+                                @Html.ActionLink("Machinery", "AllCategory", "Category", new { categoryName = "Machinery" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Electronics", "AllCategory", "Category", new { categoryName = "Electronics" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Home textile", "AllCategory", "Category", new { categoryName = "HomeTextile" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Home and kitchen", "AllCategory", "Category", new { categoryName = "HomeKitchen" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Service and equipment", "AllCategory", "Category", new { categoryName = "ServiceEquipment" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Healthcare items", "AllCategory", "Category", new { categoryName = "Healthcare" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Toys and Hobbies", "AllCategory", "Category", new { categoryName = "ToysHobbies" }, new { @class = "dropdown-item" })
                             </div>
                         </li>
+
                         <li class="nav-item">
                             <a class="nav-link" href="#">Ready to ship</a>
                         </li>
@@ -137,14 +141,14 @@
                             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Demo pages</a>
                             <div class="dropdown-menu">
                                 <a class="dropdown-item" href="page-index.html">Main</a>
-                                <a class="dropdown-item" href="page-category.html">All category</a>
-                                <a class="dropdown-item" href="page-listing-large.html">Listing list</a>
-                                <a class="dropdown-item" href="page-listing-grid.html">Listing grid</a>
-                                <a class="dropdown-item" href="page-shopping-cart.html">Shopping cart</a>
-                                <a class="dropdown-item" href="page-detail-product.html">Item detail</a>
-                                <a class="dropdown-item" href="page-content.html">Info content</a>
-                                <a class="dropdown-item" href="page-user-login.html">Page login</a>
-                                <a class="dropdown-item" href="page-user-register.html">Page register</a>
+                                @Html.ActionLink("All category", "AllCategory", "Category", new { page = "category" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Listing list", "ListingLarge", "ListingLarge", new { page = "listing-large" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Listing grid", "ListingGrid", "ListingGrid", new { page = "listing-grid" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Shopping cart", "ShoppingCart", "ShoppingCart", new { page = "shopping-cart" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Item detail", "Detail", "Product", new { page = "detail-product" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Info content", "Content", "Content", new { page = "content" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Page login", "UserLogin", "User", new { page = "user-login" }, new { @class = "dropdown-item" })
+                                @Html.ActionLink("Page register", "UserRegister", "User", new { page = "user-register" }, new { @class = "dropdown-item" })
                                 <a class="dropdown-item disabled text-muted" href="#">More components</a>
                             </div>
                         </li>
